@@ -1,4 +1,6 @@
-# Spring Boot Testing Strategies
+# Spring Boot Testing Strategies 
+
+[![Build Status](https://travis-ci.org/ccampores/spring-boot-testing-strategies.svg?branch=master)](https://travis-ci.org/ccampores/spring-boot-testing-strategies)
 
 ## Introduction
 
